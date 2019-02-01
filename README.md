@@ -7,7 +7,7 @@
 [![Coverage](https://img.shields.io/coveralls/jaredhanson/passport-twitter.svg)](https://coveralls.io/r/jaredhanson/passport-twitter)
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-twitter.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-twitter)
 
-## Crud With SpringBoot CrudRepository And MySql
+## Crud With SpringBoot Security CrudRepository And MySql
 
 This Is Web Based Crud
 
